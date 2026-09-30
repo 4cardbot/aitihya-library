@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Venture thesis research sources: premium Indian textile / home / lifestyle brand"
 permalink: /research/venture-thesis-sources.html
 ---

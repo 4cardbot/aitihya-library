@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: Aitihya Research Library
 permalink: /
 ---

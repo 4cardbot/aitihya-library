@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Aitihya / Pramāṇa: strategic recommendation"
 permalink: /research/culturally-strategic-recommendation.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Aitihya / Pramāṇa: database implementation"
 permalink: /research/aitihya-database-implementation.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Aitihya: first two months social-media plan"
 permalink: /research/aitihya-social-media-first-2-month-plan.html
 ---

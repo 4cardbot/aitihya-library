@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Aitihya: business blueprint"
 permalink: /research/culturally-business-blueprint.html
 ---

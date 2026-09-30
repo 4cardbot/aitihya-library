@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Aitihya / Pramāṇa: software infrastructure blueprint"
 permalink: /research/aitihya-software-infrastructure.html
 ---

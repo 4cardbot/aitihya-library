@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Aitihya Collection 01: starting product line"
 permalink: /research/aitihya-starting-product-line.html
 ---

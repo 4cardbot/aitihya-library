@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: "Global competitors: luxury Indian textile / home / interiors house"
 permalink: /research/global-competitors.html
 ---
