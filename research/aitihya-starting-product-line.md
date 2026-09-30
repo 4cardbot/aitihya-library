@@ -91,6 +91,46 @@ The collection should not make every item expensive merely because it is handmad
 
 The upper end should be reserved for genuine scale, scarcity, fibre value, labour complexity, documentation and finishing. A high price without a visibly exceptional object will damage trust.
 
+## 3.1 Reference examples for direction only
+
+The following are **reference examples of products and product systems already available**, not objects for Aitihya to copy. Use them to study proportion, naming, material disclosure, photography, finishing, merchandising and how a craft story becomes a desirable contemporary object. Links and prices can change.
+
+### Mapping the 12 launch designs to reference directions
+
+| Aitihya design direction | Reference example | What to study |
+|---|---|---|
+| C01 — Quiet field | [Loro Piana Labyrinth Pillow](https://us.loropiana.com/en/at-home/textile/plaids-and-cushions/labyrinth-pillow-FAP5793_T1P3.html) | Restrained visual language, material-led naming and premium presentation |
+| C02 — Woven interruption | [Fortuny cushions](https://www.fortuny.com/products?categoriesShop=chair-sofa-cushions) | Colour, pattern scale, varied cushion proportions and collection merchandising |
+| C03 — Mark and memory | [Good Earth Fergana Suzani cushion](https://www.goodearth.in/catalogue/fergana-suzani-embroidered-cushion-cover-roseleaf-20x20-cotton-slub_42051/) | Embroidery as the hero surface, care information and communication of hand-made variation |
+| C04 — Fine fibre study | [Loro Piana home textiles](https://us.loropiana.com/en/at-home/textile) | How fibre quality, tactile language and quiet colour support a high price |
+| C05 — Landscape / archive fragment | [Fortuny textiles and Landscapes](https://www.fortuny.com/) | Turning historical process knowledge into a contemporary visual collection |
+| C06 — Collector cushion | [Fortuny square cushions](https://www.fortuny.com/products?categoriesShop=chair-sofa-cushions) | Limited-feeling colourways, object photography and the relationship between cushion and textile archive |
+| T01 — Everyday heirloom | [Fortuny blankets and throws](https://www.fortuny.com/products?categoriesShop=blankets) | How a repeatable throw can remain decorative, tactile and recognisably branded |
+| T02 — Rare-fibre field | [Loro Piana Diamir Throw Blanket](https://us.loropiana.com/en/at-home/textile/plaids-and-cushions/diamir-throw-blanket-FAN5182_100B.html) | Scale, fibre composition, edge finishing, dimensions and export-ready product detail |
+| T03 — Numbered coverlet | [Loro Piana blankets](https://us.loropiana.com/en/c/at-home/blankets) | A clear ladder from core blankets to more exceptional, higher-value pieces |
+| W01 — Contemporary woven geometry | [Fortuny textile collection](https://www.fortuny.com/) | Abstract colour fields, surface depth and a room-scale material vocabulary |
+| W02 — Surface-work composition | [de Gournay wallcovering collections](https://degournay.com/wallpapers) | How hand-painted and hand-embroidered surfaces are presented as architectural art |
+| W03 — Archival halo | [de Gournay Mughal and special-project work](https://degournay.com/discover-details/de-gournay-new-york-city) | Archive, cultural reference, bespoke colour and the translation of a story into a complete room |
+
+### Bespoke and installation references
+
+- [Fortuny Bespoke](https://www.fortuny.com/discover-bespoke) is a useful reference for presenting custom work as a selective, design-led service rather than an open-ended catalogue.
+- [de Gournay’s installation guidance](https://degournay.com/uploads/technical/document/2026_Hanging_Instructions_-_English.pdf) is a useful reference for the level of fixing, panel alignment, handling and care information that a high-value wall object needs. Aitihya should adapt this thinking to textile panels without implying that its products are wallpaper.
+- [de Gournay’s hand-embroidered wallcoverings](https://degournay.com/) demonstrate how a textile surface can become an architectural experience. Aitihya’s opportunity is to create a freestanding, documented textile artwork that can move with the collector, not to reproduce a wallcovering system at launch.
+
+### How to use these examples
+
+For each Aitihya prototype, create a one-page internal reference sheet with:
+
+- the reference object and link;
+- the specific lesson being borrowed;
+- what must remain distinctly Aitihya;
+- the intended material, dimensions and finish;
+- the price and scarcity logic;
+- the provenance and community permissions required.
+
+The purpose of these links is to sharpen product judgement. They are not a claim that Aitihya should imitate the brands, motifs, photography or language of the referenced products.
+
 ## 4. Product family specifications
 
 ## 4.1 Signature cushion covers — six designs
