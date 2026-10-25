@@ -13,6 +13,7 @@ This library is a reading copy of selected documents from the Aitihya platform r
 ## Research and operating documents
 
 - [Aitihya / Pramāṇa: database implementation](research/aitihya-database-implementation.html)
+- [Aitihya digital presence and institutional partnerships](research/aitihya-digital-presence-and-institutional-partnerships.html)
 - [Aitihya: first two months social-media plan](research/aitihya-social-media-first-2-month-plan.html)
 - [Aitihya / Pramāṇa: software infrastructure blueprint](research/aitihya-software-infrastructure.html)
 - [Aitihya Collection 01: starting product line](research/aitihya-starting-product-line.html)
